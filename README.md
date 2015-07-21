@@ -18,7 +18,7 @@ Completed by xke:
 Video walkthrough (captured with licecap):
 
 <p align="center">
-![Animated GIF](TipItAnimated.gif)
+<img src="TipItAnimated.gif" alt="Animated GIF"/>
 </p>
 
 Notes:
