@@ -13,7 +13,9 @@ Completed by xke:
 * [x] Bonus: Sliders for easier input of tip percentage
 * [x] Bonus: Autolayout to center elements on larger-width screens
 * [x] Bonus: Setting to make keyboard always visible, or not
-* [x] Bonus: App icons
+* [x] Bonus: App icons (with help from makeappicons.com)
+
+Video walkthrough (captured with licecap)
 
 ![Video Walkthrough](TipItAnimated.gif)
 
