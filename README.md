@@ -15,9 +15,11 @@ Completed by xke:
 * [x] Bonus: Setting to make keyboard always visible, or not
 * [x] Bonus: App icons (with help from makeappicons.com)
 
-Video walkthrough (captured with licecap)
+Video walkthrough (captured with licecap):
 
-![Video Walkthrough](TipItAnimated.gif)
+<p align="center">
+![Animated GIF](TipItAnimated.gif)
+</p>
 
 Notes:
 
