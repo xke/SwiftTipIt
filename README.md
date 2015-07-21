@@ -11,6 +11,7 @@ Completed by xke:
 * [x] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 * [x] Bonus: Sliders for easier input of tip percentage
+* [x] Bonus: Quick way to split the total bill
 * [x] Bonus: Autolayout to center elements on larger-width screens
 * [x] Bonus: Setting to make keyboard always visible, or not
 * [x] Bonus: App icons (with help from makeappicons.com)
